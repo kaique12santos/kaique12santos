@@ -79,7 +79,9 @@
         <img width="400" alt="Sistema de cadastro" src="https://github-readme-stats.vercel.app/api/pin/?username=kaique12santos&repo=Sistema_de_cadastro&theme=shades-of-purple&hide_border=false" />
       </a>
     </td>
-    <td align="left">
+  </tr>
+  <tr>
+  <td align="left">
       <a href="https://github.com/kaique12santos/todo-list" target="_blank">
         <img width="400" alt="guia lazer SP" src="https://github-readme-stats.vercel.app/api/pin/?username=kaique12santos&repo=guia-lazer-main&theme=shades-of-purple&hide_border=false" />
       </a>
