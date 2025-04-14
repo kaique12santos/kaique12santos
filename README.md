@@ -8,7 +8,7 @@
 <hr />
 
 <div align="center">
-  <img height="200" src="https://c.tenor.com/_6WdoVlu7a8AAAAC/tenor.gif" />
+  <img height="200" src="https://camo.githubusercontent.com/be98d03d41933a0f6505e6588aadb6137603a616991c7ae7947bcd12d92b8c33/68747470733a2f2f632e74656e6f722e636f6d2f5f3657646f566c7537613841414141432f74656e6f722e676966" />
 </div>
 
 <hr />
