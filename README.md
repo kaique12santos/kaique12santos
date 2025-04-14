@@ -1,8 +1,8 @@
 <h2 align="center">👋 Olá, seja bem-vindo ao meu GitHub!</h2>
 
 <p align="center">
-  Sou Kaique Caitano, estudante de <strong>Desenvolvimento de Software Multiplataforma</strong> 👨‍💻<br>
-  Apaixonado por tecnologia, adoro criar soluções com <strong>JavaScript, Node.js, React</strong> e outras stacks web.
+  Sou Kaique Caitano dos santos, estudante de <strong>Desenvolvimento de Software Multiplataforma</strong> 👨‍💻<br>
+  Apaixonado por tecnologia, adoro criar soluções com <strong>JavaScript, Node.js, React </strong> e outras stacks web.
 </p>
 
 <hr />
@@ -91,7 +91,7 @@
 
 <hr />
 
-### 🟡 Gráfico de Contribuições Estilo Pac-Man
+### 🟡 Gráfico de Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaique12santos/kaique12santos/output/pacman-contribution-graph-dark.svg">
@@ -103,5 +103,4 @@
 
 <p align="center">
   Obrigado por visitar meu perfil! ⭐<br>
-  Vamos conectar e criar algo incrível juntos!
 </p>
