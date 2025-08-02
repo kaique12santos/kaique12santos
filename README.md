@@ -75,14 +75,14 @@
       </a>
     </td>
     <td align="left">
-      <a href="https://github.com/kaique12santos/imc-calculator" target="_blank">
+      <a href="https://github.com/kaique12santos/Sistema_de_Cadastro" target="_blank">
         <img width="400" alt="Sistema de cadastro" src="https://github-readme-stats.vercel.app/api/pin/?username=kaique12santos&repo=Sistema_de_cadastro&theme=shades-of-purple&hide_border=false" />
       </a>
     </td>
   </tr>
   <tr>
   <td align="left">
-      <a href="https://github.com/kaique12santos/todo-list" target="_blank">
+      <a href="https://github.com/kaique12santos/guia-lazer-main" target="_blank">
         <img width="400" alt="guia lazer SP" src="https://github-readme-stats.vercel.app/api/pin/?username=kaique12santos&repo=guia-lazer-main&theme=shades-of-purple&hide_border=false" />
       </a>
     </td>
