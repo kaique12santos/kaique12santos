@@ -1,7 +1,7 @@
 🇺🇸 [English version here](./readme.en.md)
 
 <div align="center">
-  <img src="./card-pt.png" alt="Ficha de personagem" width="700"/>
+  <img src="./card.pt.png" alt="Ficha de personagem" width="700"/>
 </div>
 
 
