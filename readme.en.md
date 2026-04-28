@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <img src="./card-en.png" alt="Character Sheet" width="700"/>
+  <img src="./card.en.png" alt="Character Sheet" width="700"/>
 </div>
 
 <div align="center">
