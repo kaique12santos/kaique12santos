@@ -1,4 +1,4 @@
-🇧🇷 [Versão em Português aqui](./readme.md)
+🇧🇷 [Versão em Português aqui](./README.md)
 
 ---
 
