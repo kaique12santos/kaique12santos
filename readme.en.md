@@ -2,13 +2,11 @@
 
 ---
 
-<div align="center">
-  <img src="./card.en.png" alt="Character Sheet" width="700"/>
-</div>
 
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhpZmEyc3ZpeW1rbW1ybmxnZ203dGlwMjJkZ2ZkZWVoNzV0dWVpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" height="330" />
-</div>
+
+https://github.com/user-attachments/assets/bf4571e1-068c-4826-8870-bfa188e1a2e5
+
+
 ---
 
 ## 🧭 About me
